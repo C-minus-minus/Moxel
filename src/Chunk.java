@@ -12,7 +12,7 @@ public class Chunk {
     World world;
     TextureManager textureManager;
     PVector chunkPosition;
-    int render = 30;
+    int render = 60;
 
     public Chunk(World world,TextureManager textureManager,PVector chunkPosition){
 
